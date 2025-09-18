@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Node modules (we already have build folder)
+frontend/node_modules/
+
+# Git files
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Data folder (optional: if you don’t want to include uploaded data in the image)
+data/

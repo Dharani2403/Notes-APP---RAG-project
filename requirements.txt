@@ -1,0 +1,17 @@
+flask
+flask-cors
+python-docx
+PyPDF2
+python-pptx
+pandas
+ebooklib
+beautifulsoup4
+pytesseract
+Pillow
+numpy
+sentence-transformers
+scikit-learn
+requests
+tiktoken
+nltk
+langchain
